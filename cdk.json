@@ -1,0 +1,4 @@
+{
+  "app": "./gradlew :my-serverless-application:run",
+  "output": "./my-serverless-application/cdk.out"
+}
